@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="cityArray">
+
+            <item>北京</item>
+
+            <item>上海</item>
+
+            <item>广州</item>
+
+            <item>辽宁</item>
+
+            <item>南京</item>
+
+        </string-array>
+</resources>
